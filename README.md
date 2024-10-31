@@ -1,0 +1,2 @@
+# admin-dahboard
+ A comprehensive React Admin Dashboard built from scratch, utilizing technologies like Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid. This application includes both Light and Dark Mode themes, four distinct chart types, three data table pages, an FAQ section, a form submission page, and integrated calendar functionality. Perfect for mastering React-based dashboards with diverse UI components and data visualizations.
